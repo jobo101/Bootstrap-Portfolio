@@ -7,8 +7,8 @@ p {
     font-family:'Gill Sans', sans-serif;
 }
 .lead {
-    font-size: 30px;
-    color:rgb(206, 119, 20)
+    font-size: 20px;
+    color:rgb(219, 231, 233)
 }
 /* Navigation bar */
 /* General */
@@ -26,8 +26,10 @@ p {
 }
 .navbar-brand img {
     padding-right: 15px;
-    width: 65px;
+    width: 65px;    
+    
 }
+
 .nav-item {
     margin: 0px 15px;
 }
@@ -38,9 +40,9 @@ p {
     background-size: cover;
 }
 .dropdown-item:focus, .dropdown-item:hover {
-    color: purple;
+    color: rgb(26, 8, 26);
     text-decoration: none;
-    background: black;
+    background: rgb(219, 204, 204);
 }
 /* Navigation links */
 .customNav a {
@@ -67,8 +69,9 @@ justify-content: center;
     width: 70%;
     min-width: 500px;
     max-width: 700px;
-    color: rgb(14, 3, 29);
+    color: orange;
     text-align: center;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 25px;
+    background-color: rgba(0,0,0,0.2);
 }
