@@ -25,6 +25,10 @@ N/A
 Please refer to the licence in the repo.
 
 
+![2022-11-29 (1)](https://user-images.githubusercontent.com/92433007/204600244-9ec41d38-d31e-442d-906c-5e19c129f681.png)
+
+
+[pseudocode for console-finance.odt](https://github.com/jobo101/Bootstrap-Portfolio/files/10115598/pseudocode.for.console-finance.odt)
 
 
 
